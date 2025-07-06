@@ -1,6 +1,7 @@
+
 # 🚗 Garage Management System
 
-A full-featured **Garage Management System** built with an intuitive **Admin Panel** and interactive **User Dashboard**. This system allows users to request vehicle repairs, track progress, communicate with garage admins, and more — all in real-time.
+ full-featured **Garage Management System** built with an intuitive **Admin Panel** and interactive **User Dashboard**. This system allows users to request vehicle repairs, track progress, communicate with garage admins, and more — all in real-time.
 
 ---
 
