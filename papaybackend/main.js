@@ -4,7 +4,7 @@ const { nanoid } = require('nanoid');
 const { MongoClient, ServerApiVersion } = require("mongodb");
 
 // Replace with your actual URI
-const uri = "mongodb+srv://papay_lal_saeed:wizard3032005@cluster0.pgztjor.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "DBURI";
 
 // Create Mongo Client
 const client = new MongoClient(uri, {
